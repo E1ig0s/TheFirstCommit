@@ -1,2 +1,2 @@
-email : 이메일을 입력해주세요
-gitID : 깃아이디를 입력해주세요
+email : jweye07@gmail.com
+gitID : @E1ig0s
